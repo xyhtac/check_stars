@@ -2,7 +2,7 @@
 > **_📜_** Thou shalt divine the most auspicious moments for thine upgrades and labors, lest unseen forces conspire against thy uptime. For verily, it is written: "Know the stars, and thy infrastructure shall know peace!" In the troubled times of deploy spellcraft, the wise DevOps sorcerer shall not trust in KB alone, but also in the heavens above — for fate and folly walk hand in hand! Behold, the monitoring plugin, forged in the sacred fires of Nagios and bound by the sigils of systemd, shall reveal unto thee the retrograde wanderings of the planets.
 
 
-![Celestial interface example](/check_stars.jpg?raw=true "Celestial - Interface Example")
+![Celestial Plugin Planets list](/check_stars-planets.jpg?raw=true "Celestial - Planets List")
 
 
 This **Icinga plugin** tracks planetary retrogrades in your dashboard, helping DevOps teams plan maintenance, avoid cursed deployments, and blame Mercury instead of Jenkins. 
@@ -26,6 +26,8 @@ Supposed to be placed in the configuration directory, i.e.:
 ```
 /etc/icinga2/conf.d/celestial.conf - CHMOD 755
 ```
+
+![Celestial Plugin Output Example](/check_stars-outputs.jpg?raw=true "Celestial - Output Example")
 
 ## License
 The sacred incantations of check_stars are bestowed upon thee under the [MIT](https://www.mit-license.org/) license, free for all who walk the path of open source. Use it wisely, for the stars are ever watchful.
