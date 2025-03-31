@@ -1,7 +1,7 @@
 # check_stars
-Thou shalt divine the most auspicious moments for thine upgrades and labors, lest unseen forces conspire against thy uptime. For verily, it is written: "Know the stars, and thy infrastructure shall know peace!" In the troubled times of debugging spellcraft, the wise DevOps sorcerer shall not trust in KB alone, but also in the heavens above. Behold, the monitoring plugin, forged in the sacred fires of Nagios and bound by the sigils of systemd, shall reveal unto thee the retrograde wanderings of the planets.
+> **_📜_** Thou shalt divine the most auspicious moments for thine upgrades and labors, lest unseen forces conspire against thy uptime. For verily, it is written: "Know the stars, and thy infrastructure shall know peace!" In the troubled times of deploy spellcraft, the wise DevOps sorcerer shall not trust in KB alone, but also in the heavens above — for fate and folly walk hand in hand! Behold, the monitoring plugin, forged in the sacred fires of Nagios and bound by the sigils of systemd, shall reveal unto thee the retrograde wanderings of the planets.
 
-This Icinga plugin tracks planetary retrogrades in your dashboard, helping DevOps teams plan maintenance, avoid cursed deployments, and blame Mercury instead of Jenkins. 
+This **Icinga plugin** tracks planetary retrogrades in your dashboard, helping DevOps teams plan maintenance, avoid cursed deployments, and blame Mercury instead of Jenkins. 
 
 ## 🔭 Features
 ```
@@ -30,5 +30,6 @@ The sacred incantations of check_stars are bestowed upon thee under the [MIT](ht
 Shouldst thou uncover a dark rift in the code — cast thy report into the ether [here on Github](https://github.com/xyhtac/check_stars/issues), lest the cosmic forces remain unbalanced.
 
 
-
-P.S. This brought a smile to our team on this April 1st — may it do the same for you! 😊
+```
+P.S. This brought a smile to our team on April 1st — may it do the same for you! 😊
+```
