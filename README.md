@@ -1,7 +1,8 @@
 # check_stars
 > **_📜_** Thou shalt divine the most auspicious moments for thine upgrades and labors, lest unseen forces conspire against thy uptime. For verily, it is written: "Know the stars, and thy infrastructure shall know peace!" In the troubled times of deploy spellcraft, the wise DevOps sorcerer shall not trust in KB alone, but also in the heavens above — for fate and folly walk hand in hand! Behold, the monitoring plugin, forged in the sacred fires of Nagios and bound by the sigils of systemd, shall reveal unto thee the retrograde wanderings of the planets.
 
-
+ 
+ 
 ![Celestial Plugin Planets list](/check_stars-planets.jpg?raw=true "Celestial - Planets List")
 
 
